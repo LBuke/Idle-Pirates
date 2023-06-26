@@ -1,2 +1,2 @@
-# Idle-Pirates
+# Idle-Pirates (Archived)
 C# Game project
